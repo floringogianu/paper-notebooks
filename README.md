@@ -15,7 +15,7 @@ List of paper notes:
 
 2. Functional Variational Bayesian Neural Networks <[paper](https://arxiv.org/abs/1903.05779), [notebooks](functional_bnns/)>
 
-3. Deep Exploration via Bootstrapped DQN <[paper](), [notebook](https://nbviewer.jupyter.org/github/floringogianu/per-study/blob/master/notebooks/bootstrapping.ipynb)
+3. Deep Exploration via Bootstrapped DQN <[paper](), [notebook](https://nbviewer.jupyter.org/github/floringogianu/per-study/blob/master/notebooks/bootstrapping.ipynb)>
 
 4. Gradient Estimation Using Stochastic Computation Graphs <[paper](https://arxiv.org/abs/1506.05254), notebooks>
 
